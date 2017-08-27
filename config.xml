@@ -1,0 +1,31 @@
+<UserScriptConfig>
+	<Script basedir="Google_Cache_Continue_Redux" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="Add links to Google cache results to allow continuing using the cache, keeping search terms highlighted" enabled="false" filename="google.cache.user.js" installTime="1469661439017" modified="1469661439017" name="Google Cache Continue Redux" namespace="http://www.thingsthemselves.com/greasemonkey/" noframes="false" runAt="document-end" updateMetaStatus="unknown" uuid="390c3ff1-f47d-469a-8024-0bb08583b444" version="0.6.1" installurl="file:///D:/Application/1nstaller/google.cache.user.js" updateurl="file:///D:/Application/1nstaller/google.cache.user.js">
+		<Grant>none</Grant>
+		<Include>http://*/search?*q=cache:*</Include>
+		<Include>http://*/search?*q=cache%3A*</Include>
+		<Include>http://*/search?*q=cache%3a*</Include>
+		<Include>https://*/search?*q=cache:*</Include>
+		<Include>https://*/search?*q=cache%3A*</Include>
+		<Include>https://*/search?*q=cache%3a*</Include>
+		<Include>http://webcache.googleusercontent.com/cache-continue-redux-option-sync</Include>
+		<Include>https://webcache.googleusercontent.com/cache-continue-redux-option-sync</Include>
+		<UserInclude>http://webcache.googleusercontent.com/*</UserInclude>
+		<UserInclude>http://homu.komica.org/00/index.php?res=7344335</UserInclude>
+	</Script>
+	<Script basedir="wikiturntosharedmhy" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="在Wiki條目中擷取關鍵字跳轉到動漫花園資源網搜尋" enabled="true" filename="wikiturntosharedmhy.user.js" installTime="1501344173971" modified="1501344173971" name="wikiturntosharedmhy" namespace="wiki.turn.to.share.dmhy" noframes="false" runAt="document-end" updateMetaStatus="fail" uuid="8b54af0b-9cba-4519-980b-72663673abdc" version="1.4" installurl="https://greasyfork.org/scripts/31661-wikiturntosharedmhy/code/wikiturntosharedmhy.user.js" updateurl="https://greasyfork.org/scripts/31661-wikiturntosharedmhy/code/wikiturntosharedmhy.user.js">
+		<Grant>none</Grant>
+		<Include>http*://*.wikipedia.org/wiki/*</Include>
+	</Script>
+	<Script basedir="share.dmhy.org_Search_to_rss" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="將動漫花園資源網的搜尋轉為rss訂閱網址" enabled="true" filename="share.dmhy.org_Search_to_rss.user.js" installTime="1503106493047" modified="1503106493047" name="share.dmhy.org Search to rss" namespace="rss.dmhy.org.Search" noframes="false" runAt="document-end" updateMetaStatus="unknown" uuid="c6373078-282b-430b-aff8-f6070f12a23d" version="1.1" installurl="file:///C:/Users/HrJasn/AppData/Roaming/Mozilla/Firefox/Profiles/69u2lvfx.default/gm_scripts/share.dmhy.org_Search_to_rss/share.dmhy.org_Search_to_rss.user.js" updateurl="file:///C:/Users/HrJasn/AppData/Roaming/Mozilla/Firefox/Profiles/69u2lvfx.default/gm_scripts/share.dmhy.org_Search_to_rss/share.dmhy.org_Search_to_rss.user.js">
+		<Grant>none</Grant>
+		<Include>http*://share.dmhy.org/topics/list?keyword=*</Include>
+	</Script>
+	<Script basedir="Reply_to_kobeengineer" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="匿名回覆純靠北工程師" enabled="false" filename="Reply_to_kobeengineer.user.js" installTime="1503106633711" modified="1503111157824" name="Reply to kobeengineer" namespace="Reply.to.kobeengineer" noframes="false" runAt="document-end" updateMetaStatus="unknown" uuid="c6e4053e-1330-41d5-9bba-5f901eccd9dd" version="1.0" installurl="file:///C:/Users/HrJasn/AppData/Roaming/Mozilla/Firefox/Profiles/69u2lvfx.default/gm_scripts/Reply_to_kobeengineer/Reply_to_kobeengineer.user.js" updateurl="file:///C:/Users/HrJasn/AppData/Roaming/Mozilla/Firefox/Profiles/69u2lvfx.default/gm_scripts/Reply_to_kobeengineer/Reply_to_kobeengineer.user.js">
+		<Grant>none</Grant>
+		<Include>http*://www.facebook.com/*</Include>
+	</Script>
+	<Script basedir="Animen_Sorter" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="對Animen網站番組表進行排序" enabled="true" filename="Animen_Sorter.user.js" installTime="1503226611335" modified="1503800073885" name="Animen Sorter" namespace="animen.sorter" noframes="false" runAt="document-end" updateMetaStatus="fail" uuid="2a3e55fa-f0ed-4a1f-83ae-94ee5f409f05" version="3.7" installurl="https://greasyfork.org/scripts/31665-animen-sorter/code/Animen%20Sorter.user.js" updateurl="https://greasyfork.org/scripts/31665-animen-sorter/code/Animen%20Sorter.user.js">
+		<Grant>none</Grant>
+		<Include>http*://www.animen.com.tw/NewsArea/NewsItemDetail?NewsId=*</Include>
+	</Script>
+</UserScriptConfig>
