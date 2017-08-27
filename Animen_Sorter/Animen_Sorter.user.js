@@ -3,7 +3,7 @@
 // @namespace   animen.sorter
 // @description 對Animen網站番組表進行排序
 // @include     http*://www.animen.com.tw/NewsArea/NewsItemDetail?NewsId=*
-// @version     3.7
+// @version     3.8
 // @grant       none
 // ==/UserScript==
 
@@ -47,7 +47,7 @@ if (gettb != null){
 						lnkname="";
 					}
 					console.log(lnkname);
-					lnk.href = "https://zh.wikipedia.org/wiki/Special:%E6%90%9C%E7%B4%A2/" + name;
+					lnk.href = "https://zh.wikipedia.org/wiki/Special:%E6%90%9C%E7%B4%A2/" + lnkname;
 					lnk.title = "點擊跳到維基百科";
 					lnk.target = "_blank";
 					
