@@ -16,7 +16,7 @@
 		<Grant>none</Grant>
 		<Include>http*://*.wikipedia.org/wiki/*</Include>
 	</Script>
-	<Script basedir="share.dmhy.org_Search_to_rss" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="將動漫花園資源網的搜尋轉為rss訂閱網址" enabled="true" filename="share.dmhy.org_Search_to_rss.user.js" installTime="1503106493047" modified="1503106493047" name="share.dmhy.org Search to rss" namespace="rss.dmhy.org.Search" noframes="false" runAt="document-end" updateMetaStatus="unknown" uuid="c6373078-282b-430b-aff8-f6070f12a23d" version="1.1" installurl="file:///C:/Users/HrJasn/AppData/Roaming/Mozilla/Firefox/Profiles/69u2lvfx.default/gm_scripts/share.dmhy.org_Search_to_rss/share.dmhy.org_Search_to_rss.user.js" updateurl="file:///C:/Users/HrJasn/AppData/Roaming/Mozilla/Firefox/Profiles/69u2lvfx.default/gm_scripts/share.dmhy.org_Search_to_rss/share.dmhy.org_Search_to_rss.user.js">
+	<Script basedir="share.dmhy.org_Search_to_rss" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="將動漫花園資源網的搜尋轉為rss訂閱網址" enabled="true" filename="share.dmhy.org_Search_to_rss.user.js" installTime="1503106493047" modified="1504445137572" name="share.dmhy.org Search to rss" namespace="rss.dmhy.org.Search" noframes="false" runAt="document-end" updateMetaStatus="unknown" uuid="c6373078-282b-430b-aff8-f6070f12a23d" version="1.2" installurl="file:///C:/Users/HrJasn/AppData/Roaming/Mozilla/Firefox/Profiles/69u2lvfx.default/gm_scripts/share.dmhy.org_Search_to_rss/share.dmhy.org_Search_to_rss.user.js" updateurl="file:///C:/Users/HrJasn/AppData/Roaming/Mozilla/Firefox/Profiles/69u2lvfx.default/gm_scripts/share.dmhy.org_Search_to_rss/share.dmhy.org_Search_to_rss.user.js">
 		<Grant>none</Grant>
 		<Include>http*://share.dmhy.org/topics/list?keyword=*</Include>
 	</Script>
@@ -24,7 +24,7 @@
 		<Grant>none</Grant>
 		<Include>http*://www.facebook.com/*</Include>
 	</Script>
-	<Script basedir="Animen_Sorter" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="對Animen網站番組表進行排序" enabled="true" filename="Animen_Sorter.user.js" installTime="1503226611335" modified="1503800073885" name="Animen Sorter" namespace="animen.sorter" noframes="false" runAt="document-end" updateMetaStatus="fail" uuid="2a3e55fa-f0ed-4a1f-83ae-94ee5f409f05" version="3.7" installurl="https://greasyfork.org/scripts/31665-animen-sorter/code/Animen%20Sorter.user.js" updateurl="https://greasyfork.org/scripts/31665-animen-sorter/code/Animen%20Sorter.user.js">
+	<Script basedir="Animen_Sorter" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="對Animen網站番組表進行排序" enabled="true" filename="Animen_Sorter.user.js" installTime="1503226611335" modified="1503835110674" name="Animen Sorter" namespace="animen.sorter" noframes="false" runAt="document-end" updateMetaStatus="fail" uuid="2a3e55fa-f0ed-4a1f-83ae-94ee5f409f05" version="3.8" installurl="https://greasyfork.org/scripts/31665-animen-sorter/code/Animen%20Sorter.user.js" updateurl="https://greasyfork.org/scripts/31665-animen-sorter/code/Animen%20Sorter.user.js">
 		<Grant>none</Grant>
 		<Include>http*://www.animen.com.tw/NewsArea/NewsItemDetail?NewsId=*</Include>
 	</Script>
