@@ -3,7 +3,7 @@
 // @namespace   rss.dmhy.org.Search
 // @description 將動漫花園資源網的搜尋轉為rss訂閱網址
 // @include     http*://share.dmhy.org/topics/list?keyword=*
-// @version     1.2
+// @version     1.3
 // @grant       none
 // ==/UserScript==
 
@@ -20,7 +20,7 @@ document.getElementById("rssbt").addEventListener('click', function(event) {
   try {
     var successful = document.execCommand("copy");  
     var msg = successful ? "successful" : "unsuccessful"; 
-    document.getElementById("rssbt").value = "已複製到剪貼簿";
+    document.getElementById("rssbt").value = "已複製";
   } catch(err) { 
     document.getElementById("rssbt").value = "複製失敗";
   }  
