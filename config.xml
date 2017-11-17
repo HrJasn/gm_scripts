@@ -12,7 +12,7 @@
 		<UserInclude>http://webcache.googleusercontent.com/*</UserInclude>
 		<UserInclude>http://homu.komica.org/00/index.php?res=7344335</UserInclude>
 	</Script>
-	<Script basedir="wikiturntosharedmhy" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="在Wiki條目中擷取關鍵字跳轉到動漫花園資源網搜尋" enabled="true" filename="wikiturntosharedmhy.user.js" installTime="1501344173971" modified="1501344173971" name="wikiturntosharedmhy" namespace="wiki.turn.to.share.dmhy" noframes="false" runAt="document-end" updateMetaStatus="fail" uuid="8b54af0b-9cba-4519-980b-72663673abdc" version="1.4" installurl="https://greasyfork.org/scripts/31661-wikiturntosharedmhy/code/wikiturntosharedmhy.user.js" updateurl="https://greasyfork.org/scripts/31661-wikiturntosharedmhy/code/wikiturntosharedmhy.user.js">
+	<Script basedir="wikiturntosharedmhy" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="在Wiki條目中擷取關鍵字跳轉到動漫花園資源網搜尋" enabled="false" filename="wikiturntosharedmhy.user.js" installTime="1501344173971" modified="1501344173971" name="wikiturntosharedmhy" namespace="wiki.turn.to.share.dmhy" noframes="false" runAt="document-end" updateMetaStatus="fail" uuid="8b54af0b-9cba-4519-980b-72663673abdc" version="1.4" installurl="https://greasyfork.org/scripts/31661-wikiturntosharedmhy/code/wikiturntosharedmhy.user.js" updateurl="https://greasyfork.org/scripts/31661-wikiturntosharedmhy/code/wikiturntosharedmhy.user.js">
 		<Grant>none</Grant>
 		<Include>http*://*.wikipedia.org/wiki/*</Include>
 	</Script>
